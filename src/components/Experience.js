@@ -5,10 +5,19 @@ function Experience() {
     <div>
       <h1>Experience</h1>
       <section>
+      <h3>Onye Inc</h3>
+        <p>Position: Remote Part Time QA Tester</p>
+        <p>Duration: December 2023 - Present</p>
+        <ul>
+          <li>As a QA Tester at Onye Inc, I manually test for a healthcare app that has 4 roles which helps patients in different hospitals as clients.
+</li>
+</ul>
+</section>
+<section>
         <h3>FDM Group</h3>
         <p>Position: Software Engineer Consultant</p>
         <p>New York, New York</p>
-        <p>Duration: September 2022 - May 2023</p>
+        <p>Duration: September 2022 - June 2023</p>
         <ul>
           <li>The first three months, I was a trainee getting trained in Object
 Oriented Design, Agile Application Development, Web

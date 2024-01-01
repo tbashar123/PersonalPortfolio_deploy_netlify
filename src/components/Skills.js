@@ -32,6 +32,9 @@ function Skills() {
           <li>Postman</li>
           <li>Unix</li>
           <li>Angular.js</li>
+          <li>Express.js</li>
+          <li>Render</li>
+          <li>Jira</li>
         </ul>
       </section>
      
