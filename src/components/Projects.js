@@ -22,7 +22,7 @@ function Projects() {
       <div className="project-card">
         <h3>
           <a href="https://github.com/tbashar123/Anime-MangaRankingApp/tree/master" target="_blank" rel="noopener noreferrer">
-            Anime/Manga Rating App
+            Anime/Manga Ranking App
           </a>
         </h3>
         <p>Link: <a href="https://github.com/tbashar123/Anime-MangaRankingApp/tree/master" target="_blank" rel="noopener noreferrer">https://github.com/tbashar123/Anime-MangaRankingApp/tree/master</a></p>
@@ -32,7 +32,8 @@ function Projects() {
           Created an anime/manga ranking app, which makes the user rank his favorite arcs from 5 different series and favorite fights as well.
           I also have a list of my favorite anime series and links to each of them to the IMDb link. Furthermore, the technologies I used
           for this Project was React.js, Express.js, MongoDB. I used MongoDB to submit my favorite arcs and favorite fights list. Furthermore, I've used
-          Netlify to deploy my frontend and Render to deploy my backend server.  I still have to domore for this project because it's not finished yet 
+          Netlify to deploy my frontend and Render to deploy my backend server. When you click the submit arc rankings button, sometimes
+          it can take time for you to see the your arc rankings being submitted successfully. I still have to domore for this project because it's not finished yet 
           but the link for what I have so far, you can check above.
         </p>
       </div>
